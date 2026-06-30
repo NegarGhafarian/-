@@ -6,4 +6,4 @@
 - [MS_Project.mpp](https://github.com/NegarGhafarian/-/blob/main/color%20ai.mpp)
 - [Trello Board](https://trello.com/b/zyin5f5n/color-seasonal-ai-website)
 
-Prepared by: Negar Ghafarian
+اعضای گروه: نگار غفاریان ابتدائی و ملیکا ملک زاده اراسته
